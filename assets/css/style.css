@@ -1,6 +1,9 @@
 
 
 h1 {
-    font-family: "Arial Black", Gadget, sans-serif;
+    font-family: "Arial Black", Gadget, sans-serif; text-align: left; color: teal
 }
 
+body {background-color: gray}
+
+p {font-size: 30px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
