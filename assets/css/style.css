@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: aquamarine
+}
+
+.jumbotron h1 {
+    color:white;
+}
+
+p, h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
