@@ -37,3 +37,7 @@ p {
     background: lightgray;
     
 }
+
+.navbar {
+    float: right;
+}
