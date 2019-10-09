@@ -14,11 +14,18 @@ body {
 }
 
 p {
-    font-size: 50px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 18px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .contatiner {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     color: teal;
+}
+
+.h {
+    background: white;
+    border: 2px;
+    border-color: black;
+    
 }
