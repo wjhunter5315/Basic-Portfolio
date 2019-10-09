@@ -10,6 +10,9 @@ header {
 }
 
 body {
+    box-sizing: border-box;
+    border: 2px;
+    
 
 }
 
