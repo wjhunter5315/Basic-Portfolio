@@ -12,7 +12,7 @@ header {
 body {
     box-sizing: border-box;
     border: 2px;
-    
+
 
 }
 
@@ -31,5 +31,9 @@ p {
     background: white;
     border: 2px;
     border-color: black;
+}
 
+.section {
+    background: lightgray;
+    
 }
