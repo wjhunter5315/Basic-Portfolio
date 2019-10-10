@@ -64,6 +64,10 @@ li {
     margin-right: 8px;
 }
 
+#baseline {
+    display: block;
+}
+
 #name {
     float: left;
     width: 20%;
