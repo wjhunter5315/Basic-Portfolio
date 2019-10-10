@@ -14,7 +14,10 @@ header {
     background-color: teal;
     border: 2px;
     border-style: ridge;
-    border-color: #cccccc
+    border-color: #cccccc;
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
 }
 p {
     margin: 10px;
