@@ -21,7 +21,6 @@ header {
 }
 p {
     margin: 10px;
-    background: gray;
     font-size: 18px; 
     float: left;
 }
@@ -110,5 +109,4 @@ li {
 
 footer {
     background-color: #666666;
-    border-top: 8px solid #4aaaa5;
 }
