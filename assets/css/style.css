@@ -5,6 +5,8 @@
 
 body {
     box-sizing: border-box;
+    background-image: url("assets/images/20191009_182008.jpg");
+    background-attachment: fixed;
 }
 
 p {
