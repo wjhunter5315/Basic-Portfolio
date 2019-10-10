@@ -14,9 +14,6 @@ header {
 
 body {
     box-sizing: border-box;
-    border: 2px;
-
-
 }
 
 p {
@@ -54,7 +51,7 @@ p {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 4px;
     display: block;
     border: 1px;
     border-style: ridge;
@@ -84,6 +81,7 @@ li a:hover {
     height: 40px;
     background: teal;
     text-align: center;
+    font-size: 18px;
 }
 
 #left {
@@ -92,6 +90,7 @@ li a:hover {
     height: 40px;
     background: gray;
     text-align: center;
+    font-size: 18px;
 }
 
 #middle {
@@ -100,6 +99,7 @@ li a:hover {
     height: 40px;
     background: grey;
     text-align: center;
+    font-size: 18px;
 }
 
 #right {
@@ -108,5 +108,5 @@ li a:hover {
     height: 40px;
     background: grey;
     text-align: center;
-    
+    font-size: 18px;
 }
