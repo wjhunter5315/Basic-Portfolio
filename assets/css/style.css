@@ -2,9 +2,6 @@
     box-sizing: border-box;
 }
 
-header {
-   
-}
 
 body {
     box-sizing: border-box;
@@ -14,12 +11,6 @@ p {
     margin: 10;
     background: gray;
     font-size: 18px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-
-.contatiner {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: left;
-    color: teal;
 }
 
 .h {
@@ -55,18 +46,6 @@ ul {
 li {
     padding: 14px 16px;
     text-decoration: none;
-}
-
-li a:hover {
-    background-color: azure;
-}
-
-#Contact {
-    margin-right: 8px;
-}
-
-#baseline {
-    display: block;
 }
 
 #name {
