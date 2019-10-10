@@ -50,6 +50,8 @@ h2 {
     border-style: inset;
     border-color: #dddddd;
     width: 960px;
+    overflow: auto;
+    clear: both;
     min-height: calc(100vh - 70px);
 }
 
@@ -111,4 +113,5 @@ li {
 .footer {
     background-color: #666666;
     height: 50px;
+    text-align: center;
 }
