@@ -11,7 +11,7 @@ body {
 
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #ffffff;
+    background-color: teal;
     border: 2px;
     border-style: ridge;
     border-color: #cccccc
@@ -55,7 +55,6 @@ h2 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: teal;
 }
 
 ul {
