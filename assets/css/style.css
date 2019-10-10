@@ -4,16 +4,22 @@
 
 
 body {
-    box-sizing: border-box;
     background-image: url("https://i.imgur.com/VDxxZyR.jpg");
     background-size: 100%;
     background-attachment: fixed;
 }
 
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border: 2px;
+    border-style: ridge;
+    border-color: #cccccc
+}
 p {
     margin: 10px;
     background: gray;
-    font-size: 18px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 18px; 
 }
 
 h1 {
@@ -21,7 +27,7 @@ h1 {
     border: 2px;
     border-style: inset;
     border-color: black;
-    margin-right: 15px;
+    margin-left: 10px;
     margin-top: 10px;
     width: 140px;
     text-align: center;
@@ -33,9 +39,13 @@ h2 {
 }
 
 .container {
-    background: lightgray;
+    background: #ffffff;
     margin-top: 80px;
-    
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border: 2px;
+    border-style: inset;
+    border-color: #dddddd;
+    width: 960px;
 }
 
 .navbar {
@@ -92,4 +102,9 @@ li {
     background: grey;
     text-align: center;
     font-size: 18px;
+}
+
+footer {
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
 }
