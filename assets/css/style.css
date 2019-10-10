@@ -20,6 +20,7 @@ p {
     margin: 10px;
     background: gray;
     font-size: 18px; 
+    float: left;
 }
 
 h1 {
