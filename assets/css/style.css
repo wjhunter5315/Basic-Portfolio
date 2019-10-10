@@ -49,6 +49,10 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: block;
+    border: 1px;
+    border-style: ridge;
+    border-spacing: 5px;
 }
 
 li {
@@ -63,23 +67,31 @@ li {
 #name {
     float: left;
     width: 20%;
+    height: 20px;
     background: darkgreen;
+    text-align: center;
 }
 
 #left {
     float: right;
     width:20%;
+    height: 20px;
     background: yellow;
+    text-align: center;
 }
 
 #middle {
     float: right;
     width: 20%;
+    height: 20px;
     background: brown;
+    text-align: center;
 }
 
 #right {
     float: right;
     width: 20%;
+    height: 40px;
     background: orange;
+    text-align: center;
 }
