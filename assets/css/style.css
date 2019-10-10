@@ -51,6 +51,9 @@ ul {
 
 li {
     display: inline;
-    float: left;
     
+}
+
+#Contact {
+    margin-right: 8px;
 }
