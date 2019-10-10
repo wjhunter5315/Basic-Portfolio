@@ -71,24 +71,24 @@ li {
 #name {
     float: left;
     width: 20%;
-    height: 20px;
-    background: darkgreen;
+    height: 40px;
+    background: teal;
     text-align: center;
 }
 
 #left {
     float: right;
     width:20%;
-    height: 20px;
-    background: yellow;
+    height: 40px;
+    background: gray;
     text-align: center;
 }
 
 #middle {
     float: right;
     width: 20%;
-    height: 20px;
-    background: brown;
+    height: 40px;
+    background: grey;
     text-align: center;
 }
 
@@ -96,6 +96,7 @@ li {
     float: right;
     width: 20%;
     height: 40px;
-    background: orange;
+    background: grey;
     text-align: center;
+    
 }
