@@ -1,4 +1,7 @@
-
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
 
 header {
     font-family: "Arial Black", Gadget, sans-serif;
@@ -56,4 +59,28 @@ li {
 
 #Contact {
     margin-right: 8px;
+}
+
+#name {
+    float: left;
+    width: 20%;
+    background: darkgreen;
+}
+
+#left {
+    float: right;
+    width:20%;
+    background: yellow;
+}
+
+#middle {
+    float: right;
+    width: 20%;
+    background: brown;
+}
+
+#right {
+    float: right;
+    width: 20%;
+    background: orange;
 }
