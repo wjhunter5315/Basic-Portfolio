@@ -38,9 +38,6 @@ ul {
     margin: 0;
     padding: 4px;
     display: block;
-    border: 1px;
-    border-style: ridge;
-    border-spacing: 5px;
 }
 
 li {
