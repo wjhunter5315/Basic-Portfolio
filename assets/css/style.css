@@ -50,6 +50,7 @@ h2 {
     border-style: inset;
     border-color: #dddddd;
     width: 960px;
+    min-height: calc(100vh - 70px);
 }
 
 #navbar {
@@ -107,8 +108,7 @@ li {
     font-size: 18px;
 }
 
-.footer,
-.push {
+.footer {
     background-color: #666666;
     height: 50px;
 }
