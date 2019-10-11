@@ -6,7 +6,7 @@
 body {
     background-image: url("https://github.com/wjhunter5315/Basic-Portfolio/blob/master/assets/images/TPC.jpg?raw=true");
     background-size: 100%;
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 header {
