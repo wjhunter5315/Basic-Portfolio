@@ -47,6 +47,7 @@ h2 {
 .container {
     background: #ffffff;
     margin-top: 80px;
+    margin-left: 20px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border: 2px;
     border-style: inset;
@@ -63,7 +64,7 @@ h2 {
     overflow: hidden;
 }
 
-ol {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 4px;
