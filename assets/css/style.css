@@ -131,6 +131,8 @@ li {
 
 #p1 {
     position: relative;
+    margin-left: 10px;
+    float: none;
 }
 
 #p2 {
