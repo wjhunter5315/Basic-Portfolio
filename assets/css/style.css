@@ -43,9 +43,10 @@ h2 {
     border-style: ridge;
 }
 
-h3 {
+.picandtext {
     padding: 10px;
 }
+
 img {
     border: 1px;
     width: 140px;
@@ -130,14 +131,4 @@ li {
     padding: 15px;
     margin-top: 10px;
     color: hotpink;
-}
-
-#p1 {
-    position: relative;
-    margin-left: 10px;
-    float: none;
-}
-
-#p2 {
-    width: auto;
 }
