@@ -16,11 +16,11 @@ header {
     border-style: ridge;
     border-color: #cccccc;
     width: 200px;
-    height: 32px;
+    height: 36px;
     text-align: center;
     font-size: 18px;
     float: left;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 p {
     margin: 10px;
@@ -116,5 +116,7 @@ li {
     width: 960px;
     height: 50px;
     text-align: center;
+    padding: 15px;
+    margin-top: 10px;
     color: hotpink;
 }
