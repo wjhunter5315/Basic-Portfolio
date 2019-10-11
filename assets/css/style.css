@@ -6,7 +6,7 @@
 body {
     background-image: url("https://github.com/wjhunter5315/Basic-Portfolio/blob/master/assets/images/TPC.jpg?raw=true");
     background-size: 100%;
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
 
 header {
@@ -16,8 +16,11 @@ header {
     border-style: ridge;
     border-color: #cccccc;
     width: 200px;
+    height: 32px;
     text-align: center;
     font-size: 18px;
+    float: left;
+    margin-top: 4px;
 }
 p {
     margin: 10px;
