@@ -128,3 +128,11 @@ li {
     margin-top: 10px;
     color: hotpink;
 }
+
+.p1 {
+    position: relative;
+}
+
+.p2 {
+    width: auto;
+}
