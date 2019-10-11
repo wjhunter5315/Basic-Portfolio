@@ -129,10 +129,10 @@ li {
     color: hotpink;
 }
 
-.p1 {
+#p1 {
     position: relative;
 }
 
-.p2 {
+#p2 {
     width: auto;
 }
