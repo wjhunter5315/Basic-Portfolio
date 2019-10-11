@@ -21,7 +21,7 @@ header {
 }
 p {
     margin: 10px;
-    font-size: 18px; 
+    font-size: 16px; 
     float: left;
 }
 
@@ -51,7 +51,6 @@ h2 {
     width: 960px;
     overflow: auto;
     clear: both;
-    min-height: calc(100vh - 70px);
 }
 
 #navbar {
