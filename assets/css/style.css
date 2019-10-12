@@ -129,6 +129,33 @@ li {
     height: 50px;
     text-align: center;
     padding: 15px;
-    margin-top: 10px;
     color: hotpink;
+    bottom: 0;
+    position: fixed;
+}
+
+.picturebox {
+    background: #ffffff;
+    margin-top: 80px;
+    margin-left: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border: 2px;
+    border-style: inset;
+    border-color: #dddddd;
+    width: 960px;
+    overflow: auto;
+    clear: both;
+}
+
+.infobox {
+    background: #ffffff;
+    margin-top: 80px;
+    margin-left: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border: 2px;
+    border-style: inset;
+    border-color: #dddddd;
+    width: 960px;
+    overflow: auto;
+    clear: both;
 }
